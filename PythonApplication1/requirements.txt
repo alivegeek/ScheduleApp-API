@@ -1,0 +1,4 @@
+bottle==0.12.19
+twilio==7.59.0
+sqlalchemy==1.4.22
+bcrypt==3.2.0
